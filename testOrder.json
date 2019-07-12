@@ -1,0 +1,25 @@
+{
+"order_id": "aecbe941-abfa-4330-a752-ef8bd9f38a2f",
+"items": [ 
+{ 
+"item": "Probiotic", 
+"quantity": 4, 
+"msrp": 18.25, 
+"retail_price": 17.88 
+}, 
+{ 
+"item": "Zinc", 
+"quantity": 4, 
+"msrp": 10.76, 
+"retail_price": 10.44 
+}, 
+{ 
+"item": "Multivitamin", 
+"quantity": 4, 
+"msrp": 10.67, 
+"retail_price": 9.07 
+} 
+], 
+"shipping": 25.98, 
+"taxes": 7.59 
+}
